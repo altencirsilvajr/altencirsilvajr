@@ -19,6 +19,8 @@
 
 <p align="left">
 Sou um desenvolvedor de Software, com 2 anos de experiência, especializado em aplicativos de desenvolvimento web com React e desenvolvimento de aplicativos móveis multiplataforma usando React Native para iOS e Android. Meu conjunto de habilidades técnicas inclui um forte domínio de JavaScript ES6+, HTML, arquitetura CSS, TypeScript e estruturas JavaScript modernas. Estou sempre me dedicando a otimizar a experiência e o desempenho do usuário, garantindo as melhores práticas de codificação e entregando aplicativos de alto desempenho. Sempre comprometido com o aprendizado contínuo e a excelência, tenho um experiência em integração e uso bem-sucedido de aplicativos móveis com APIs de terceiros Restful.
+
+Meu Portifólio: https://altencirsilvajr.github.io/portifolio/
   
 </p>
 
