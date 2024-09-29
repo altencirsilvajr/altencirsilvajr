@@ -26,11 +26,11 @@ Sou um desenvolvedor de Software, com 2 anos de experiência, especializado em a
 - Conhecimento avançados de React JS ou React Native
 - Conhecimento  de biblioteca de Gerenciamento de Estado em React.
 
-Meu portifólio:https://altencirsilvajr.github.io/portifolio/
-Meu LinkedIn:https://www.linkedin.com/in/altencir-junior-60410b1a7/
-Meu currículo
+<p>Meu portifólio:https://altencirsilvajr.github.io/portifolio/</p>
 
-Meu número para contato é: 21 968609445
+<p>Meu LinkedIn:https://www.linkedin.com/in/altencir-junior-60410b1a7/</p>
+
+<p>Meu número para contato é: 21 968609445</p>
 
 Meu Portifólio: https://altencirsilvajr.github.io/portifolio/
   
