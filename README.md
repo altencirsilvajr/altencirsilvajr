@@ -8,7 +8,7 @@
 ###
 
 <h1 align="center">
-  Desenvolvedor de Software - ReactJS | React Native | TypeScript | JS Tecnologias
+  Desenvolvedor FullStack - React.JS | React Native | Node.js | TypeScript | React Query | Github | Postman | Next.js | Cypress | Context API | Rest API | Tailwind CSS | Git | MUI | Sass | Native Base
 </h1>
 
 ###
@@ -18,13 +18,24 @@
 ###
 
 <p align="left">
+Contato: Celular: (21) 96860-9445
 
-Sou um desenvolvedor de Software, com 2 anos de experiência, especializado em aplicativos de desenvolvimento web com React e desenvolvimento de aplicativos móveis multiplataforma usando React Native para iOS e Android. Meu conjunto de habilidades técnicas inclui um forte domínio de JavaScript ES6+, HTML, arquitetura CSS, TypeScript e estruturas JavaScript modernas.
+Atualmente, na Devex Soluções, atuando como Desenvolvedor Frontend para grandes clientes como SESI, SENAI e FIEMA, utilizando ferramentas como Next.js, React, Node.js e TailwindCSS. Minha abordagem inclui aplicação de princípios como Clean Code, DRY e KISS.
 
-- Conhecimento em estrutura de Dados na linguagem JavaScript
-- Conhecimento de TypeScript, HTML, CSS, Git e Github
-- Conhecimento avançados de React JS ou React Native
-- Conhecimento  de biblioteca de Gerenciamento de Estado em React.
+Também, trabalho como Desenvolvedor Frontend e Mobile na addCyber Tecnologias, onde lidero o desenvolvimento de aplicativos móveis. Entre os projetos de destaque, participei da criação da versão Mobile da plataforma PagoX, implementando funcionalidades como integração de câmeras nativas, scroll infinito para vídeos, geolocalização em tempo real e deploy para as lojas Google Play e Apple Store.
+
+Competências:
+
+- Frontend: React.js, React Native, Vue.js, TypeScript, JavaScript, Next.js
+UI/UX: Material UI, Chakra UI, Native Base, Styled Components, TailwindCSS
+
+- Backend: Node.js, C#, .NET
+
+- Bancos de Dados: SQL
+
+- Outros: React Query, Postman, integração com APIs RESTful, Push Notification, autenticação OAuth, geolocalização em tempo real.
+
+Connhecimento em arquitetura como MVVM, práticas como Single Responsibility Principle e foco em Responsividade (RWD e Mobile-First).
 
 <p>Meu portifólio:https://altencirsilvajr.github.io/portifolio/</p>
 
