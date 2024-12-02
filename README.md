@@ -8,7 +8,7 @@
 ###
 
 <h1 align="center">
-  Desenvolvedor FullStack - React.JS | React Native | Node.js | TypeScript | React Query | Github | Postman | Next.js | Cypress | Context API | Rest API | Tailwind CSS | Git | MUI | Sass | Native Base
+  Desenvolvedor Frontend - React.JS | React Native  | TypeScript | React Query | Github | Postman | Next.js | Cypress | Context API | Rest API | Tailwind CSS | Git | MUI | Sass | Native Base
 </h1>
 
 ###
