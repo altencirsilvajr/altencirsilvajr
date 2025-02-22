@@ -8,7 +8,7 @@
 ###
 
 <h1 align="center">
-  Desenvolvedor Frontend - React.JS | React Native  | TypeScript | React Query | Github | Postman | Next.js | Cypress | Context API | Rest API | Tailwind CSS | Git | MUI | Sass | Native Base
+Desenvolvedor Frontend - React.JS | React Native | Expo | TypeScript | React Query | Github | Postman | Next.js | Jest | Context API | Redux | API Restful | Tailwind CSS | Git | MUI | Sass | GlueStack-UI
 </h1>
 
 ###
@@ -18,22 +18,51 @@
 ###
 
 <p align="left">
-Contato: Celular: (21) 96860-9445
+Contato: 
+Celular: (21) 96860-9445
+Email: altencirsilvajr@gmail.com
 
-Atualmente, na Devex Soluções, atuando como Desenvolvedor Frontend para grandes clientes como SESI, SENAI e FIEMA, utilizando ferramentas como Next.js, React, Node.js e TailwindCSS. Minha abordagem inclui aplicação de princípios como Clean Code, DRY e KISS.
 
-Também, trabalho como Desenvolvedor Frontend e Mobile na addCyber Tecnologias, onde lidero o desenvolvimento de aplicativos móveis. Entre os projetos de destaque, participei da criação da versão Mobile da plataforma PagoX, implementando funcionalidades como integração de câmeras nativas, scroll infinito para vídeos, geolocalização em tempo real e deploy para as lojas Google Play e Apple Store.
+Sou um Desenvolvedor React Native com sólida experiência em desenvolvimento web e mobile, especializado em TypeScript, React.js e React Native.
 
-Competências:
+Atuei como Desenvolvedor Front End na Devex Soluções, onde faço parte da equipe de desenvolvimento Front End de soluções BPMS para clientes de grande porte como SESI, SENAI, FIEMA, IEL e outras federações. Trabalho com tecnologias modernas como Next.js, React e TailwindCSS na plataforma Solução 360, implementando soluções escaláveis e de alta performance.
 
-- Frontend: React.js, React Native, Vue.js, TypeScript, JavaScript, Next.js
-UI/UX: Material UI, Chakra UI, Native Base, Styled Components, TailwindCSS
+Como co-fundador da addCyber, liderei o desenvolvimento do PagoX, uma aplicação global de serviços e produtos disponível na web e Play Store. O projeto utiliza tecnologias de ponta como:
 
-- Backend: Node.js, C#, .NET
++ Arquitetura avançada com Context API e Reducers para gerenciamento de estado
 
-- Bancos de Dados: SQL
++ Implementação de testes unitários com Jest em ambientes web e mobile
 
-- Outros: React Query, Postman, integração com APIs RESTful, Push Notification, autenticação OAuth, geolocalização em tempo real.
++ Desenvolvimento de Hooks personalizados para reutilização de lógica
+
++ Integração com Firebase Authentication e Google Sign-In
+
++ Consumo de APIs RESTful com React Query
+
++ Estilização avançada com NativeWind, e GlueStack-ui
+ 
++ Deploy automatizado de builds para iOS (IPA) e Android (AAB)
+
++ Desenvolvimento mobile com Expo CLI e TypeScript
+
+Possuo experiência acadêmica com C#, .NET e Banco de dados SQL, aplicando conceitos de Clean Code e SOLID nos projetos. Também possuo experiência acadêmica com Java através da formação em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. 
+
+Minhas competências técnicas:
+
+- JavaScript/TypeScript avançado
+- React.js/React Native/Next.js
+- Testes unitários e integração (Jest)
+- Git/GitHub
+- HTML5/CSS3
+- TailwindCSS
+- Context API/Redux
+- Firebase
+
+Bancos de Dados: SQL
+
+Outros: React Query, Postman, integração com APIs RESTful, Push Notification, autenticação OAuth, geolocalização em tempo real.
+
+Connhecimento em arquitetura como MVVM, práticas como Single Responsibility Principle e foco em Responsividade (RWD e Mobile-First).
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
