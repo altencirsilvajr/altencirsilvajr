@@ -8,7 +8,7 @@
 ###
 
 <h1 align="center">
-Desenvolvedor Frontend - React.JS | React Native | Expo | TypeScript | React Query | Github | Postman | Next.js | Jest | Context API | Redux | API Restful | Tailwind CSS | Git | MUI | Sass | GlueStack-UI
+Fullstack Engineer | React | React Native | Javascript | C# | .NET | TypeScript | HTML | CSS | PWA | SQL | Next.js | Jest | Context API | Redux | API REST | Tailwind | Git | Styled Components | SEO | Kanban
 </h1>
 
 ###
