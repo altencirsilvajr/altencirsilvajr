@@ -18,51 +18,48 @@ Desenvolvedor Frontend - React.JS | React Native | Expo | TypeScript | React Que
 ###
 
 <p align="left">
-Contato: 
-Celular: (21) 96860-9445
-Email: altencirsilvajr@gmail.com
+Sobre
+Contato:
+📱 Celular: (21) 96860-9445
+📧 Email: altencirsilvajr@gmail.com
 
+Sou um Desenvolvedor de Software com 5 anos de experiência especializado em React, React Native, Next.js e Expo, desenvolvendo aplicações web e mobile utilizando JavaScript e TypeScript.
 
-Sou um Desenvolvedor React Native com sólida experiência em desenvolvimento web e mobile, especializado em TypeScript, React.js e React Native.
+Meu objetivo é criar aplicativos de alto nível, que qualquer um possa utilizar seja para usuários comuns ou mundo corporativo!
 
-Atuei como Desenvolvedor Front End na Devex Soluções, onde faço parte da equipe de desenvolvimento Front End de soluções BPMS para clientes de grande porte como SESI, SENAI, FIEMA, IEL e outras federações. Trabalho com tecnologias modernas como Next.js, React e TailwindCSS na plataforma Solução 360, implementando soluções escaláveis e de alta performance.
+Atuei como Desenvolvedor Front End na Devex Soluções, onde integrei a equipe, soluções BPMS para clientes de grande porte como SESI, SENAI, FIEMA, IEL e outras federações. Trabalhei com tecnologias como: Next.js, React, Tailwind, Styled Components e API REST
 
-Como co-fundador da addCyber, liderei o desenvolvimento do PagoX, uma aplicação global de serviços e produtos disponível na web e Play Store. O projeto utiliza tecnologias de ponta como:
+Também sou co-fundador da empresa addCyber, onde fui um dos desenvolvedores do PagoX, uma aplicação global de serviços e produtos em vídeo, disponível na web e na Play Store. 
 
-+ Arquitetura avançada com Context API e Reducers para gerenciamento de estado
+Possuo experiência acadêmica com Java, C#, .NET e Banco de Dados SQL, aplicando conceitos de Clean Code e SOLID. Além disso, estou finalizando a formação em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual
 
-+ Implementação de testes unitários com Jest em ambientes web e mobile
-
-+ Desenvolvimento de Hooks personalizados para reutilização de lógica
-
-+ Integração com Firebase Authentication e Google Sign-In
-
-+ Consumo de APIs RESTful com React Query
-
-+ Estilização avançada com NativeWind, e GlueStack-ui
- 
-+ Deploy automatizado de builds para iOS (IPA) e Android (AAB)
-
-+ Desenvolvimento mobile com Expo CLI e TypeScript
-
-Possuo experiência acadêmica com C#, .NET e Banco de dados SQL, aplicando conceitos de Clean Code e SOLID nos projetos. Também possuo experiência acadêmica com Java através da formação em Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul Virtual. 
-
-Minhas competências técnicas:
-
-- JavaScript/TypeScript avançado
-- React.js/React Native/Next.js
-- Testes unitários e integração (Jest)
-- Git/GitHub
-- HTML5/CSS3
-- TailwindCSS
-- Context API/Redux
-- Firebase
+Competências técnicas:
+🔹 JavaScript/TypeScript avançado
+🔹 React.js
+🔹 React Native
+🔹 Expo
+🔹 Next.js
+🔹 Testes unitários (Jest)
+🔹 Git/GitHub para versionamento de código
+🔹 HTML5 e CSS3
+🔹 TailwindCSS e Styled Components
+🔹 Context API e Redux
+🔹 Kanban e metodologias ágeis (Scrum, XP)
+🔹 Redux 
+🔹 ContextApi
+🔹 Git
+🔹 Github
+🔹 Jira
+🔹 SQL
+🔹 PWA
+🔹 SEO
+🔹 APIs REST 
+🔹 Postman
+🔹 integração OAuth
+🔹 geolocalização em tempo real 
+🔹 Responsividade (RWD e Mobile-First).Conta 
 
 Bancos de Dados: SQL
-
-Outros: React Query, Postman, integração com APIs RESTful, Push Notification, autenticação OAuth, geolocalização em tempo real.
-
-Connhecimento em arquitetura como MVVM, práticas como Single Responsibility Principle e foco em Responsividade (RWD e Mobile-First).
 
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -85,15 +82,12 @@ Connhecimento em arquitetura como MVVM, práticas como Single Responsibility Pri
   <img width="12" />
 </div>
 
-
-Connhecimento em arquitetura como MVVM, práticas como Single Responsibility Principle e foco em Responsividade (RWD e Mobile-First).
-
 <p>Meu portifólio:https://altencirsilvajr.github.io/portifolio/</p>
 
 <p>Meu LinkedIn:https://www.linkedin.com/in/altencir-junior-60410b1a7/</p>
 
 <p>Meu número para contato é: 21 968609445</p>
 
-Meu Portifólio: https://altencirsilvajr.github.io/portifolio/
+Meu Portifólio(necessário atualização): https://altencirsilvajr.github.io/portifolio/
   
 </p>
