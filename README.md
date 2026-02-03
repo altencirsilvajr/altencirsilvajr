@@ -1,93 +1,88 @@
-
 <div align="center">
   <a href="https://www.linkedin.com/in/altencir-junior-60410b1a7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://github.com/altencirsilvajr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
 
 ###
 
 <h1 align="center">
-Fullstack Engineer | React | React Native | Javascript | C# | .NET | TypeScript | HTML | CSS | PWA | SQL | Next.js | Jest | Context API | Redux | API REST | Tailwind | Git | Styled Components | SEO | Kanban
+  Fullstack Software Engineer (Front End/ Mobile/ Back End)
 </h1>
+<p align="center">
+  <strong>C# | .NET | React | React Native | TypeScript | Java | TypeScript | Next.JS | SQL SERVER | MySQL | Docker | Redux | Jests</strong>
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+### 👨‍💻 Sobre Mim
 
-###
+Desenvolvedor de Software desde 2020 com vasta experiência na construção de aplicações completas (E2E). Especialista em criar interfaces performáticas com **React/Next.js** e APIs robustas com **.NET** e **Quarkus**.
 
-<p align="left">
-Sobre
-Contato:
-📱 Celular: (21) 96860-9445
-📧 Email: altencirsilvajr@gmail.com
+Atuo com foco em soluções escaláveis (SaaS, BPMS), aplicando **Clean Code**, **SOLID** e **Design Patterns** para entregar código de fácil manutenção e alta performance.
 
-Sou um Desenvolvedor de Software com 5 anos de experiência especializado em React, React Native, Next.js e Expo, desenvolvendo aplicações web e mobile utilizando JavaScript e TypeScript.
+- 📱 **Mobile:** Especialista em React Native/Expo e PWAs.
+- ⚙️ **Backend:** Foco em arquiteturas escaláveis, segurança com JWT/Core Identity e migração de dados.
+- 🚀 **Mindset:** Entusiasta de Clean Architecture e metodologias ágeis para soluções B2B e B2C.
 
-Meu objetivo é criar aplicativos de alto nível, que qualquer um possa utilizar seja para usuários comuns ou mundo corporativo!
+---
 
-Atuei como Desenvolvedor Front End na Devex Soluções, onde integrei a equipe, soluções BPMS para clientes de grande porte como SESI, SENAI, FIEMA, IEL e outras federações. Trabalhei com tecnologias como: Next.js, React, Tailwind, Styled Components e API REST
+### 🛠️ Hard Skills
 
-Também sou co-fundador da empresa addCyber, onde fui um dos desenvolvedores do PagoX, uma aplicação global de serviços e produtos em vídeo, disponível na web e na Play Store. 
+#### **Front-End**
+* **Frameworks:** React.js, Next.js, Angular, Vue.js.
+* **Mobile:** React Native, Expo, CLI.
+* **State:** Context API, Redux, Zustand, React Query.
+* **Styling:** Tailwind CSS, Styled Components, SASS.
+* **Testing:** Jest, Cypress.
 
-Possuo experiência acadêmica com Java, C#, .NET e Banco de Dados SQL, aplicando conceitos de Clean Code e SOLID. Além disso, estou finalizando a formação em Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul Virtual
+#### **Back-End & Data**
+* **Linguagens/Frameworks:** C# (.NET Core/WebAPI), Java (Quarkus).
+* **Arquitetura:** Clean Architecture, DDD, MVC, Microservices.
+* **Bancos de Dados:** MySQL, PostgreSQL, NoSQL.
+* **Segurança:** OAuth2, JWT, Core Identity, FluentValidation.
 
-Competências técnicas:
-🔹 JavaScript/TypeScript avançado
-🔹 React.js
-🔹 React Native
-🔹 Expo
-🔹 Next.js
-🔹 Testes unitários (Jest)
-🔹 Git/GitHub para versionamento de código
-🔹 HTML5 e CSS3
-🔹 TailwindCSS e Styled Components
-🔹 Context API e Redux
-🔹 Kanban e metodologias ágeis (Scrum, XP)
-🔹 Redux 
-🔹 ContextApi
-🔹 Git
-🔹 Github
-🔹 Jira
-🔹 SQL
-🔹 PWA
-🔹 SEO
-🔹 APIs REST 
-🔹 Postman
-🔹 integração OAuth
-🔹 geolocalização em tempo real 
-🔹 Responsividade (RWD e Mobile-First).Conta 
+#### **DevOps & Ferramentas**
+* **Cloud/CI/CD:** Azure DevOps, ArgoCD, OKD, Docker.
+* **Versionamento:** Git (GitHub, Bitbucket).
+* **Design:** Figma (Prototipagem).
 
-Bancos de Dados: SQL
+---
 
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" height="40" alt="reactnavigation logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="40" alt="next logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="40" alt="sql logo"  />
-  <img width="12" />
+### 📊 Experiência em Destaque
+
+* **Devex Soluções:** Desenvolvimento de soluções BPMS para grandes federações (SESI, SENAI, FIEMA), utilizando ecossistema React e APIs REST.
+* **addCyber (Co-fundador):** Desenvolvimento do **PagoX**, uma plataforma global de vídeo multi-plataforma (Web/Android).
+
+---
+
+### 📬 Contato
+
+<div align="left">
+  <p>📱 <b>Celular:</b> (21) 96860-9445</p>
+  <p>📧 <b>Email:</b> <a href="mailto:altencirsilvajr@gmail.com">altencirsilvajr@gmail.com</a></p>
+  <p>🌐 <b>Portfólio:</b> <a href="https://altencirsilvajr.github.io/portifolio/">altencirsilvajr.github.io/portifolio/</a></p>
 </div>
 
-<p>Meu portifólio:https://altencirsilvajr.github.io/portifolio/</p>
+###
 
-<p>Meu LinkedIn:https://www.linkedin.com/in/altencir-junior-60410b1a7/</p>
-
-<p>Meu número para contato é: 21 968609445</p>
-
-Meu Portifólio(necessário atualização): https://altencirsilvajr.github.io/portifolio/
-  
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt="dotnet logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="next logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwind logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker logo" />
+</div>
