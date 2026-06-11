@@ -1,85 +1,125 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/altencir-junior-60410b1a7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
 
-###
-
 <h1 align="center">
-  Fullstack Software Engineer (Front End/ Mobile/ Back End)
+  Full Stack .NET Developer
 </h1>
+
 <p align="center">
-  <strong>C# | .NET | React | React Native | TypeScript | Java | TypeScript | Next.JS | SQL SERVER | MySQL | Docker | Redux | Jests</strong>
+  <strong>
+    C# • .NET Core • React.js • TypeScript • SQL Server • Azure DevOps • AI Integration
+  </strong>
 </p>
 
-###
+---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Desenvolvedor de Software desde 2020 com vasta experiência na construção de aplicações completas (E2E). Especialista em criar interfaces performáticas com **React/Next.js** e APIs robustas com **.NET** e **Quarkus**.
+Sou Desenvolvedor Full Stack com experiência na construção de aplicações web escaláveis, APIs REST e integrações corporativas, atuando principalmente com C#, .NET Core, React.js e TypeScript.
 
-Atuo com foco em soluções escaláveis (SaaS, BPMS), aplicando **Clean Code**, **SOLID** e **Design Patterns** para entregar código de fácil manutenção e alta performance.
+Ao longo da minha trajetória participei do desenvolvimento e evolução de sistemas corporativos, aplicações baseadas em Micro-Frontends (MFE), integrações entre sistemas e iniciativas de modernização tecnológica em ambientes de larga escala.
 
-- 📱 **Mobile:** Especialista em React Native/Expo e PWAs.
-- ⚙️ **Backend:** Foco em arquiteturas escaláveis, segurança com JWT/Core Identity e migração de dados.
-- 🚀 **Mindset:** Entusiasta de Clean Architecture e metodologias ágeis para soluções B2B e B2C.
+Além da experiência Full Stack tradicional, também desenvolvo projetos próprios envolvendo Generative AI, AI Integration, OpenAI API, Claude API, Gemini API e AI Agents, aplicando Inteligência Artificial na criação de produtos digitais.
 
 ---
 
-### 🛠️ Hard Skills
+## 🚀 Principais Tecnologias
 
-#### **Front-End**
-* **Frameworks:** React.js, Next.js, Angular, Vue.js.
-* **Mobile:** React Native, Expo, CLI.
-* **State:** Context API, Redux, Zustand, React Query.
-* **Styling:** Tailwind CSS, Styled Components, SASS.
-* **Testing:** Jest, Cypress.
+### Frontend
 
-#### **Back-End & Data**
-* **Linguagens/Frameworks:** C# (.NET Core/WebAPI), Java (Quarkus).
-* **Arquitetura:** Clean Architecture, DDD, MVC, Microservices.
-* **Bancos de Dados:** MySQL, PostgreSQL, NoSQL.
-* **Segurança:** OAuth2, JWT, Core Identity, FluentValidation.
+* React.js
+* Next.js
+* Vue.js
+* Angular
+* TypeScript
+* JavaScript
+* Micro-Frontend (MFE)
 
-#### **DevOps & Ferramentas**
-* **Cloud/CI/CD:** Azure DevOps, ArgoCD, OKD, Docker.
-* **Versionamento:** Git (GitHub, Bitbucket).
-* **Design:** Figma (Prototipagem).
+### Backend
+
+* C#
+* .NET Core
+* REST APIs
+* JWT
+* Entity Framework
+* Swagger / OpenAPI
+
+### Banco de Dados
+
+* SQL Server
+* PostgreSQL
+* MongoDB
+* Redis
+
+### DevOps
+
+* Azure DevOps
+* CI/CD
+* Docker
+* GitFlow
+
+### Arquitetura
+
+* Clean Code
+* SOLID
+* Design Patterns
+* Integração de Sistemas
+
+### Inteligência Artificial
+
+* AI Integration
+* OpenAI API
+* Claude API
+* Gemini API
+* AI Agents
+* Generative AI
 
 ---
 
-### 📊 Experiência em Destaque
+## 📈 Destaques Profissionais
 
-* **Devex Soluções:** Desenvolvimento de soluções BPMS para grandes federações (SESI, SENAI, FIEMA), utilizando ecossistema React e APIs REST.
-* **addCyber (Co-fundador):** Desenvolvimento do **PagoX**, uma plataforma global de vídeo multi-plataforma (Web/Android).
+### Extreme Digital Solutions (EDS)
+
+* Redução de aproximadamente 35% da curva de aprendizado de novos desenvolvedores através de engenharia reversa e documentação técnica.
+* Cobertura mínima de 80% em testes automatizados.
+* Atuação em aplicações React, Vue e Next.js utilizando arquitetura Micro-Frontend.
+
+### Vindicce
+
+* Redução de aproximadamente 20% no tempo de resposta de APIs REST.
+* Desenvolvimento Full Stack utilizando C#, .NET Core, React.js e Angular.
+* Participação em integrações corporativas, autenticação JWT e evolução de sistemas.
 
 ---
 
-### 📬 Contato
+## 🌐 Contato
 
-<div align="left">
-  <p>📱 <b>Celular:</b> (21) 96860-9445</p>
-  <p>📧 <b>Email:</b> <a href="mailto:altencirsilvajr@gmail.com">altencirsilvajr@gmail.com</a></p>
-  <p>🌐 <b>Portfólio:</b> <a href="https://altencirsilvajr.github.io/portifolio/">altencirsilvajr.github.io/portifolio/</a></p>
-</div>
+* 📧 Email: [altencirsilvajr@gmail.com](mailto:altencirsilvajr@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/altencir-junior
+* 💻 GitHub: github.com/altencirsilvajr
+* 🌎 Portfólio: https://altencirsilvajr.github.io/portifolio/
 
-###
+---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt="dotnet logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="35" alt="next logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="35" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwind logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="35" alt="docker logo" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" />
+
 </div>
