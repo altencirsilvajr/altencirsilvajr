@@ -10,7 +10,7 @@
 
 <p align="center">
   <strong>
-    C# • .NET Core • React.js • TypeScript • SQL Server • Azure DevOps • AI Integration
+    C# • .NET Core • React.js/React Native • TypeScript • SQL Server • Azure DevOps • AI Integration
   </strong>
 </p>
 
