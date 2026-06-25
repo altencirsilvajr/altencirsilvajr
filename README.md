@@ -36,6 +36,7 @@ Além da experiência Full Stack tradicional, também desenvolvo projetos própr
 * Angular
 * TypeScript
 * JavaScript
+* Blazor
 * Micro-Frontend (MFE)
 
 ### Backend
@@ -46,6 +47,10 @@ Além da experiência Full Stack tradicional, também desenvolvo projetos própr
 * JWT
 * Entity Framework
 * Swagger / OpenAPI
+
+### Mobile
+* React Native
+* Expo
 
 ### Banco de Dados
 
